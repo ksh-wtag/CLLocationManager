@@ -118,6 +118,7 @@ fastlane/test_output
 iOSInjectionProject/
 
 #CLLocation
-
+CLLocation1/Assets.xcassets
+CLLocation1.xcodeproj
 
 # End of https://www.toptal.com/developers/gitignore/api/swift,macos
